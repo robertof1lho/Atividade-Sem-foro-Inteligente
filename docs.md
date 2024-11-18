@@ -12,11 +12,7 @@ Este projeto utiliza dois ESP32 para simular um sistema de semáforo que pode al
 
 ## Vídeo
 
-<div style="text-align: center;">
-<img title="Vídeo semámafo" src="assets\ledBuiltInOn.jpg"  style="width: 70%;">
-</div>
-
-<br>
+https://github.com/user-attachments/assets/85d5db85-1405-44cf-a3f3-3c103c4c8b6f
 
 ## Códigos do Projeto
 
